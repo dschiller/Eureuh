@@ -1,2 +1,3 @@
-# Eureuh ( Sundanese: `timeless` )
+# Eureuh
+`Eureuh` is Sundanese and means `timeless`
 Timeless Sound Generator
